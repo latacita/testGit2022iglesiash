@@ -1,0 +1,2 @@
+# testGitMaster
+Students of the Software Method course in the University of Cantabria needs to learn about Software Configuration Management. To assess their skills on Git management, they need to complete a lab test on Git. During that test, students need to interact with a GitHub repository and carry out a set of actions. This repository contains the base material for initialize those repositories. 
