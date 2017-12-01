@@ -1,0 +1,14 @@
+%%=====================================================================%%
+%%                 Métodos de Desarrollo - Test de Git                 %%
+%%=====================================================================%%
+%% Alumno (Apellidos, Nombre):                                         %%
+%%=====================================================================%%
+
+ Paso   Acción                       Notas
+====== ============================ ===================================
+ (03)   Commit "Hola mundo cruel"
+ (04)   Checkout RamaLoca
+ (05)   Merge RamaBuena              Al realizar la fusión, se produce
+                                     un error porque existen conflictos
+                                     en el archivo problematico.txt.
+ (06)   Commit "Conflitos Resueltos" 
