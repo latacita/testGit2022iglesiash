@@ -10,3 +10,9 @@
 23	git commit -m "Paso 23"	
 24	git switch master
 25					Recursiva con conflictos
+26	git add bitacora.txt
+	git commit -m "Paso 26"
+27	git tag
+	-a RespuestaPreguntaFusion
+	-m "Paso 25"
+28	git push
