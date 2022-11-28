@@ -9,3 +9,6 @@
 03	git branch Historia000
 04	git branch Historia001
 05	git switch Historia000
+11	git stash			Se guarda con id 4d337a8, "No
+					pasaras"
+	git switch Historia000
