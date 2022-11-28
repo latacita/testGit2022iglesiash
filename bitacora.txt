@@ -1,11 +1,27 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Héctor González Iglesias             %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+03	git branch Historia000
+04	git branch Historia001
+05	git switch Historia000
+	git switch Historia000
+07	git add bitacora.txt
+08	git commit -m "Paso 08"
+09	git switch Historia001
+11	git stash			Se guarda con id 4d337a8, "No
+					pasaras"
+13	git add bitacora.txt
+14	git commit -m "Paso 14"
+15	git switch Historia001
+16	git stash pop
+19	git commit -m "Paso 19"
+20	git merge Historia000		Recursiva con auto-merge.
+					Aparecen conflictos
 22	git add bitacora.txt
 23	git commit -m "Paso 23"	
 24	git switch master
@@ -16,3 +32,7 @@
 	-a RespuestaPreguntaFusion
 	-m "Paso 25"
 28	git push
+30	git commit -m "Paso 30"	
+31	git merge Historia001		Recursiva con auto-merge.
+					Aparecen conflictos
+32	
