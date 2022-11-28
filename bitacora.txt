@@ -6,3 +6,10 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+07	git add bitacora.txt
+08	git commit -m "Paso 08"
+09	git switch Historia001
+13	git add bitacora.txt
+14	git commit -m "Paso 14"
+15	git switch Historia001
+16	git stash pop
