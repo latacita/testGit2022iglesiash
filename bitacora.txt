@@ -1,8 +1,11 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Héctor González Iglesias             %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+03	git branch Historia000
+04	git branch Historia001
+05	git switch Historia000
