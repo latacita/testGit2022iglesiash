@@ -6,3 +6,7 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+22	git add bitacora.txt
+23	git commit -m "Paso 23"	
+24	git switch master
+25					Recursiva con conflictos
